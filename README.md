@@ -360,3 +360,27 @@ Subarrays are contiguous parts of an array, and different categories of subarray
    Output: [1, 1, 0]
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
+## String
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
+<!---LeetCode Topics End-->
