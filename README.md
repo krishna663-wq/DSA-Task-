@@ -414,6 +414,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/krishna663-wq/DSA-Task-/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/krishna663-wq/DSA-Task-/tree/master/0605-can-place-flowers) |
 | [3463-alternating-groups-i](https://github.com/krishna663-wq/DSA-Task-/tree/master/3463-alternating-groups-i) |
 ## Math
 |  |
@@ -429,6 +430,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/krishna663-wq/DSA-Task-/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/krishna663-wq/DSA-Task-/tree/master/0605-can-place-flowers) |
 ## Sorting
 |  |
 | ------- |
