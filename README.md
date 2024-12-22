@@ -371,6 +371,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## String
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0680-valid-palindrome-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
 ## Divide and Conquer
@@ -425,12 +426,14 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
+| [0680-valid-palindrome-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/krishna663-wq/DSA-Task-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/krishna663-wq/DSA-Task-/tree/master/0605-can-place-flowers) |
+| [0680-valid-palindrome-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
