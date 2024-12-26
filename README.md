@@ -378,10 +378,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0191-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0191-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
 ## Sliding Window
 |  |
