@@ -377,6 +377,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0008-string-to-integer-atoi](https://github.com/krishna663-wq/DSA-Task-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/krishna663-wq/DSA-Task-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
 | [0680-valid-palindrome-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/krishna663-wq/DSA-Task-/tree/master/0979-di-string-match) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -403,11 +404,13 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -418,6 +421,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
 ## Array
 |  |
@@ -495,4 +499,5 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
