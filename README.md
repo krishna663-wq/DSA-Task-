@@ -436,6 +436,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/krishna663-wq/DSA-Task-/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/krishna663-wq/DSA-Task-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/krishna663-wq/DSA-Task-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/krishna663-wq/DSA-Task-/tree/master/0605-can-place-flowers) |
 | [0816-design-hashset](https://github.com/krishna663-wq/DSA-Task-/tree/master/0816-design-hashset) |
@@ -480,6 +481,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0015-3sum](https://github.com/krishna663-wq/DSA-Task-/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/krishna663-wq/DSA-Task-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/krishna663-wq/DSA-Task-/tree/master/0561-array-partition) |
 | [1018-largest-perimeter-triangle](https://github.com/krishna663-wq/DSA-Task-/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/krishna663-wq/DSA-Task-/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -506,6 +508,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krishna663-wq/DSA-Task-/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/krishna663-wq/DSA-Task-/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
