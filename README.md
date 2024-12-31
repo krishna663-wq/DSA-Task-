@@ -368,6 +368,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0012-integer-to-roman](https://github.com/krishna663-wq/DSA-Task-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
 | [0816-design-hashset](https://github.com/krishna663-wq/DSA-Task-/tree/master/0816-design-hashset) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
@@ -447,6 +448,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0012-integer-to-roman](https://github.com/krishna663-wq/DSA-Task-/tree/master/0012-integer-to-roman) |
 | [0171-excel-sheet-column-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/krishna663-wq/DSA-Task-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/krishna663-wq/DSA-Task-/tree/master/0326-power-of-three) |
@@ -459,6 +461,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/krishna663-wq/DSA-Task-/tree/master/0015-3sum) |
+| [0202-happy-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/krishna663-wq/DSA-Task-/tree/master/0979-di-string-match) |
