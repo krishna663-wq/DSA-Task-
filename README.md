@@ -370,6 +370,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/krishna663-wq/DSA-Task-/tree/master/0389-find-the-difference) |
 | [0816-design-hashset](https://github.com/krishna663-wq/DSA-Task-/tree/master/0816-design-hashset) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
 ## String
@@ -381,6 +382,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0171-excel-sheet-column-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
+| [0389-find-the-difference](https://github.com/krishna663-wq/DSA-Task-/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/krishna663-wq/DSA-Task-/tree/master/0979-di-string-match) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -397,6 +399,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0191-number-of-1-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/krishna663-wq/DSA-Task-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/krishna663-wq/DSA-Task-/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/krishna663-wq/DSA-Task-/tree/master/0389-find-the-difference) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
 ## Sliding Window
 |  |
@@ -482,6 +485,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0015-3sum](https://github.com/krishna663-wq/DSA-Task-/tree/master/0015-3sum) |
+| [0389-find-the-difference](https://github.com/krishna663-wq/DSA-Task-/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/krishna663-wq/DSA-Task-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/krishna663-wq/DSA-Task-/tree/master/0561-array-partition) |
