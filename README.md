@@ -373,6 +373,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0242-valid-anagram](https://github.com/krishna663-wq/DSA-Task-/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/krishna663-wq/DSA-Task-/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/krishna663-wq/DSA-Task-/tree/master/0500-keyboard-row) |
+| [0782-jewels-and-stones](https://github.com/krishna663-wq/DSA-Task-/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/krishna663-wq/DSA-Task-/tree/master/0816-design-hashset) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
 | [3412-permutation-difference-between-two-strings](https://github.com/krishna663-wq/DSA-Task-/tree/master/3412-permutation-difference-between-two-strings) |
@@ -390,6 +391,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0500-keyboard-row](https://github.com/krishna663-wq/DSA-Task-/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0680-valid-palindrome-ii) |
+| [0782-jewels-and-stones](https://github.com/krishna663-wq/DSA-Task-/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/krishna663-wq/DSA-Task-/tree/master/0812-rotate-string) |
 | [0979-di-string-match](https://github.com/krishna663-wq/DSA-Task-/tree/master/0979-di-string-match) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1430-find-the-k-beauty-of-a-number) |
