@@ -425,6 +425,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0226-invert-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
+| [0904-leaf-similar-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0904-leaf-similar-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/krishna663-wq/DSA-Task-/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -433,6 +434,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0226-invert-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
+| [0904-leaf-similar-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -446,6 +448,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0226-invert-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
+| [0904-leaf-similar-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0904-leaf-similar-trees) |
 | [2384-root-equals-sum-of-children](https://github.com/krishna663-wq/DSA-Task-/tree/master/2384-root-equals-sum-of-children) |
 ## Array
 |  |
