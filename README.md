@@ -427,6 +427,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/krishna663-wq/DSA-Task-/tree/master/0975-range-sum-of-bst) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/krishna663-wq/DSA-Task-/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -437,12 +438,14 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/krishna663-wq/DSA-Task-/tree/master/0975-range-sum-of-bst) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/krishna663-wq/DSA-Task-/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -452,6 +455,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/krishna663-wq/DSA-Task-/tree/master/0975-range-sum-of-bst) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/krishna663-wq/DSA-Task-/tree/master/2384-root-equals-sum-of-children) |
 ## Array
 |  |
