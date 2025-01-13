@@ -540,6 +540,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krishna663-wq/DSA-Task-/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/krishna663-wq/DSA-Task-/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/krishna663-wq/DSA-Task-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/krishna663-wq/DSA-Task-/tree/master/0203-remove-linked-list-elements) |
 | [0816-design-hashset](https://github.com/krishna663-wq/DSA-Task-/tree/master/0816-design-hashset) |
 ## Recursion
