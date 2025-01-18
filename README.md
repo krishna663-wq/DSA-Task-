@@ -498,6 +498,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0342-power-of-four](https://github.com/krishna663-wq/DSA-Task-/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/krishna663-wq/DSA-Task-/tree/master/1018-largest-perimeter-triangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/krishna663-wq/DSA-Task-/tree/master/1094-matrix-cells-in-distance-order) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krishna663-wq/DSA-Task-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1965-sum-of-digits-in-base-k](https://github.com/krishna663-wq/DSA-Task-/tree/master/1965-sum-of-digits-in-base-k) |
 ## Two Pointers
@@ -552,6 +553,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krishna663-wq/DSA-Task-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/krishna663-wq/DSA-Task-/tree/master/0203-remove-linked-list-elements) |
 | [0816-design-hashset](https://github.com/krishna663-wq/DSA-Task-/tree/master/0816-design-hashset) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krishna663-wq/DSA-Task-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
