@@ -627,4 +627,5 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/krishna663-wq/DSA-Task-/tree/master/0175-combine-two-tables) |
+| [1153-product-sales-analysis-i](https://github.com/krishna663-wq/DSA-Task-/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
