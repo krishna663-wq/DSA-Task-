@@ -623,4 +623,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/krishna663-wq/DSA-Task-/tree/master/0975-range-sum-of-bst) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/krishna663-wq/DSA-Task-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
