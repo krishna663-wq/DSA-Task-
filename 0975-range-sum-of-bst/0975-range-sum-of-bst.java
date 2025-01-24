@@ -13,17 +13,21 @@
  *     }
  * }
  */
-public class Solution {
-    public int rangeSumBST(TreeNode root, int low, int high) {
-        if (root == null) {
-            return 0;
+class Solution {
+    int ans;
+    public int rangeSumBST(TreeNode root, int L, int R) {
+        ans = 0;
+        dfs(root,L,R);
+        return ans;
+    }
+    public void dfs(TreeNode node,int L,int R){
+        if(node != null){
+            if(L<= node.val && node.val <= R)
+                ans += node.val;
+            if(L<node.val)
+                dfs(node.left,L,R);
+            if(node.val < R)
+                dfs(node.right,L,R);    
         }
-
-        int currentVal = (root.val >= low && root.val <= high) ? root.val : 0;
-
-        int leftSum = rangeSumBST(root.left, low, high);
-        int rightSum = rangeSumBST(root.right, low, high);
-
-        return currentVal + leftSum + rightSum;
     }
 }
