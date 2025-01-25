@@ -509,6 +509,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krishna663-wq/DSA-Task-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1965-sum-of-digits-in-base-k](https://github.com/krishna663-wq/DSA-Task-/tree/master/1965-sum-of-digits-in-base-k) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
