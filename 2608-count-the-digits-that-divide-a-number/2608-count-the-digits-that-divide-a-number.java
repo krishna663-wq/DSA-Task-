@@ -1,11 +1,16 @@
 class Solution {
-    public int countDigits(int num) {
-        int ans = 0;
-        int n = num;
-        while(n>0){
-            if(num % (n%10)==0) ans++;
-            n /= 10;
+    public int countDigits(int n) {
+        int count = 0;
+        int original = n;
+
+        while (n > 0) {
+            int lastDigit = n % 10;
+            if (lastDigit != 0 && original % lastDigit == 0) {
+                count++;
+            }
+            n = n / 10;
         }
-        return ans;
+
+        return count;
     }
 }
