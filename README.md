@@ -500,6 +500,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/krishna663-wq/DSA-Task-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/krishna663-wq/DSA-Task-/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/krishna663-wq/DSA-Task-/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0171-excel-sheet-column-number) |
