@@ -511,6 +511,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0326-power-of-three](https://github.com/krishna663-wq/DSA-Task-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krishna663-wq/DSA-Task-/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/krishna663-wq/DSA-Task-/tree/master/1018-largest-perimeter-triangle) |
 | [1094-matrix-cells-in-distance-order](https://github.com/krishna663-wq/DSA-Task-/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krishna663-wq/DSA-Task-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -580,6 +581,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0231-power-of-two](https://github.com/krishna663-wq/DSA-Task-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/krishna663-wq/DSA-Task-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krishna663-wq/DSA-Task-/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -594,6 +596,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/0005-longest-palindromic-substring) |
 | [0322-coin-change](https://github.com/krishna663-wq/DSA-Task-/tree/master/0322-coin-change) |
+| [1013-fibonacci-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -647,4 +650,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0175-combine-two-tables](https://github.com/krishna663-wq/DSA-Task-/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/krishna663-wq/DSA-Task-/tree/master/0182-duplicate-emails) |
 | [1153-product-sales-analysis-i](https://github.com/krishna663-wq/DSA-Task-/tree/master/1153-product-sales-analysis-i) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
