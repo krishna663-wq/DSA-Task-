@@ -506,6 +506,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/krishna663-wq/DSA-Task-/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-matrix-cells-in-distance-order](https://github.com/krishna663-wq/DSA-Task-/tree/master/1094-matrix-cells-in-distance-order) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/krishna663-wq/DSA-Task-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3463-alternating-groups-i](https://github.com/krishna663-wq/DSA-Task-/tree/master/3463-alternating-groups-i) |
 ## Math
 |  |
