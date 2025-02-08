@@ -494,6 +494,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishna663-wq/DSA-Task-/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0189-rotate-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/krishna663-wq/DSA-Task-/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
@@ -524,6 +525,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0012-integer-to-roman](https://github.com/krishna663-wq/DSA-Task-/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/krishna663-wq/DSA-Task-/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/krishna663-wq/DSA-Task-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0258-add-digits) |
@@ -545,6 +547,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishna663-wq/DSA-Task-/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/krishna663-wq/DSA-Task-/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/krishna663-wq/DSA-Task-/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
