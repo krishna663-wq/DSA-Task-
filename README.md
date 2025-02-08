@@ -377,6 +377,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0816-design-hashset](https://github.com/krishna663-wq/DSA-Task-/tree/master/0816-design-hashset) |
 | [1364-tuple-with-same-product](https://github.com/krishna663-wq/DSA-Task-/tree/master/1364-tuple-with-same-product) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
+| [2434-design-a-number-container-system](https://github.com/krishna663-wq/DSA-Task-/tree/master/2434-design-a-number-container-system) |
 | [3412-permutation-difference-between-two-strings](https://github.com/krishna663-wq/DSA-Task-/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/krishna663-wq/DSA-Task-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
@@ -611,6 +612,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krishna663-wq/DSA-Task-/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/krishna663-wq/DSA-Task-/tree/master/0506-relative-ranks) |
+| [2434-design-a-number-container-system](https://github.com/krishna663-wq/DSA-Task-/tree/master/2434-design-a-number-container-system) |
 ## Merge Sort
 |  |
 | ------- |
@@ -630,6 +632,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/krishna663-wq/DSA-Task-/tree/master/0816-design-hashset) |
+| [2434-design-a-number-container-system](https://github.com/krishna663-wq/DSA-Task-/tree/master/2434-design-a-number-container-system) |
 ## Hash Function
 |  |
 | ------- |
@@ -687,4 +690,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/krishna663-wq/DSA-Task-/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
