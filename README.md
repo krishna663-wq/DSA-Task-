@@ -497,6 +497,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/krishna663-wq/DSA-Task-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/krishna663-wq/DSA-Task-/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/krishna663-wq/DSA-Task-/tree/master/0500-keyboard-row) |
@@ -550,6 +551,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0125-valid-palindrome](https://github.com/krishna663-wq/DSA-Task-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/krishna663-wq/DSA-Task-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/krishna663-wq/DSA-Task-/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0557-reverse-words-in-a-string-iii) |
