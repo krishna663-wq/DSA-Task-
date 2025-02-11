@@ -403,6 +403,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1430-find-the-k-beauty-of-a-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/krishna663-wq/DSA-Task-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3412-permutation-difference-between-two-strings](https://github.com/krishna663-wq/DSA-Task-/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/krishna663-wq/DSA-Task-/tree/master/3447-clear-digits) |
 ## Divide and Conquer
@@ -649,6 +650,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0258-add-digits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/krishna663-wq/DSA-Task-/tree/master/0898-transpose-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/krishna663-wq/DSA-Task-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/krishna663-wq/DSA-Task-/tree/master/3447-clear-digits) |
 ## Number Theory
@@ -677,6 +679,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0776-n-ary-tree-postorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/krishna663-wq/DSA-Task-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/krishna663-wq/DSA-Task-/tree/master/3447-clear-digits) |
 ## Binary Search Tree
 |  |
