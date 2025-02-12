@@ -412,11 +412,13 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/krishna663-wq/DSA-Task-/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0191-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/krishna663-wq/DSA-Task-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/krishna663-wq/DSA-Task-/tree/master/0342-power-of-four) |
