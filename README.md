@@ -551,6 +551,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1965-sum-of-digits-in-base-k](https://github.com/krishna663-wq/DSA-Task-/tree/master/1965-sum-of-digits-in-base-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/krishna663-wq/DSA-Task-/tree/master/2448-count-number-of-bad-pairs) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/krishna663-wq/DSA-Task-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -644,6 +645,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/krishna663-wq/DSA-Task-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |
 | ------- |
