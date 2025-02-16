@@ -521,6 +521,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-matrix-cells-in-distance-order](https://github.com/krishna663-wq/DSA-Task-/tree/master/1094-matrix-cells-in-distance-order) |
 | [1364-tuple-with-same-product](https://github.com/krishna663-wq/DSA-Task-/tree/master/1364-tuple-with-same-product) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/krishna663-wq/DSA-Task-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/krishna663-wq/DSA-Task-/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/krishna663-wq/DSA-Task-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -645,6 +646,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/krishna663-wq/DSA-Task-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |
