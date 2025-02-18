@@ -407,6 +407,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/krishna663-wq/DSA-Task-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/krishna663-wq/DSA-Task-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/krishna663-wq/DSA-Task-/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/krishna663-wq/DSA-Task-/tree/master/3447-clear-digits) |
 ## Divide and Conquer
@@ -584,6 +585,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0979-di-string-match](https://github.com/krishna663-wq/DSA-Task-/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/krishna663-wq/DSA-Task-/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/krishna663-wq/DSA-Task-/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/krishna663-wq/DSA-Task-/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
 | ------- |
@@ -651,6 +653,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/krishna663-wq/DSA-Task-/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/krishna663-wq/DSA-Task-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/krishna663-wq/DSA-Task-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |
@@ -697,6 +700,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/krishna663-wq/DSA-Task-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/krishna663-wq/DSA-Task-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/krishna663-wq/DSA-Task-/tree/master/3447-clear-digits) |
 ## Binary Search Tree
 |  |
