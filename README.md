@@ -375,6 +375,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0500-keyboard-row](https://github.com/krishna663-wq/DSA-Task-/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/krishna663-wq/DSA-Task-/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/krishna663-wq/DSA-Task-/tree/master/0816-design-hashset) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/krishna663-wq/DSA-Task-/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/krishna663-wq/DSA-Task-/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -422,6 +423,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0191-number-of-1-bits) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
 ## Bit Manipulation
 |  |
@@ -456,6 +458,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0776-n-ary-tree-postorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/krishna663-wq/DSA-Task-/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -503,6 +506,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/krishna663-wq/DSA-Task-/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -527,6 +531,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0605-can-place-flowers](https://github.com/krishna663-wq/DSA-Task-/tree/master/0605-can-place-flowers) |
 | [0816-design-hashset](https://github.com/krishna663-wq/DSA-Task-/tree/master/0816-design-hashset) |
 | [0898-transpose-matrix](https://github.com/krishna663-wq/DSA-Task-/tree/master/0898-transpose-matrix) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/krishna663-wq/DSA-Task-/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/krishna663-wq/DSA-Task-/tree/master/0979-di-string-match) |
