@@ -586,6 +586,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1965-sum-of-digits-in-base-k](https://github.com/krishna663-wq/DSA-Task-/tree/master/1965-sum-of-digits-in-base-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/krishna663-wq/DSA-Task-/tree/master/2448-count-number-of-bad-pairs) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2610-closest-prime-numbers-in-range](https://github.com/krishna663-wq/DSA-Task-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/krishna663-wq/DSA-Task-/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/krishna663-wq/DSA-Task-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishna663-wq/DSA-Task-/tree/master/3227-find-missing-and-repeated-values) |
@@ -720,6 +721,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0258-add-digits) |
+| [2610-closest-prime-numbers-in-range](https://github.com/krishna663-wq/DSA-Task-/tree/master/2610-closest-prime-numbers-in-range) |
 ## Geometry
 |  |
 | ------- |
