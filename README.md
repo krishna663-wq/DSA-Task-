@@ -417,6 +417,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/krishna663-wq/DSA-Task-/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/krishna663-wq/DSA-Task-/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/krishna663-wq/DSA-Task-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3412-permutation-difference-between-two-strings](https://github.com/krishna663-wq/DSA-Task-/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/krishna663-wq/DSA-Task-/tree/master/3447-clear-digits) |
 ## Divide and Conquer
@@ -444,6 +445,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/krishna663-wq/DSA-Task-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/krishna663-wq/DSA-Task-/tree/master/3463-alternating-groups-i) |
 ## Tree
 |  |
