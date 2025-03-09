@@ -447,6 +447,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/krishna663-wq/DSA-Task-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/krishna663-wq/DSA-Task-/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/3483-alternating-groups-ii) |
 ## Tree
 |  |
 | ------- |
@@ -564,6 +565,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/krishna663-wq/DSA-Task-/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/krishna663-wq/DSA-Task-/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/krishna663-wq/DSA-Task-/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/3483-alternating-groups-ii) |
 ## Math
 |  |
 | ------- |
