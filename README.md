@@ -432,6 +432,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/krishna663-wq/DSA-Task-/tree/master/0231-power-of-two) |
@@ -529,6 +530,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishna663-wq/DSA-Task-/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/krishna663-wq/DSA-Task-/tree/master/0283-move-zeroes) |
