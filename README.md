@@ -438,6 +438,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0191-number-of-1-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/krishna663-wq/DSA-Task-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/krishna663-wq/DSA-Task-/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/krishna663-wq/DSA-Task-/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/krishna663-wq/DSA-Task-/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/krishna663-wq/DSA-Task-/tree/master/0461-hamming-distance) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
@@ -584,6 +585,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0258-add-digits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/krishna663-wq/DSA-Task-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krishna663-wq/DSA-Task-/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/krishna663-wq/DSA-Task-/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/krishna663-wq/DSA-Task-/tree/master/1018-largest-perimeter-triangle) |
