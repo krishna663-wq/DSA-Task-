@@ -441,6 +441,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0371-sum-of-two-integers](https://github.com/krishna663-wq/DSA-Task-/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/krishna663-wq/DSA-Task-/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/krishna663-wq/DSA-Task-/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0693-binary-number-with-alternating-bits) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
 ## Sliding Window
 |  |
