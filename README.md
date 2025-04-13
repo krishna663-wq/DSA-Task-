@@ -534,6 +534,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishna663-wq/DSA-Task-/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna663-wq/DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
@@ -691,6 +692,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna663-wq/DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/krishna663-wq/DSA-Task-/tree/master/0322-coin-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1013-fibonacci-number) |
