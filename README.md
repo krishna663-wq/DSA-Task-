@@ -378,6 +378,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0816-design-hashset](https://github.com/krishna663-wq/DSA-Task-/tree/master/0816-design-hashset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1039-find-the-town-judge](https://github.com/krishna663-wq/DSA-Task-/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/krishna663-wq/DSA-Task-/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/krishna663-wq/DSA-Task-/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -554,6 +555,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0979-di-string-match](https://github.com/krishna663-wq/DSA-Task-/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/krishna663-wq/DSA-Task-/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/1019-squares-of-a-sorted-array) |
+| [1039-find-the-town-judge](https://github.com/krishna663-wq/DSA-Task-/tree/master/1039-find-the-town-judge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/krishna663-wq/DSA-Task-/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-matrix-cells-in-distance-order](https://github.com/krishna663-wq/DSA-Task-/tree/master/1094-matrix-cells-in-distance-order) |
@@ -789,5 +791,6 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/krishna663-wq/DSA-Task-/tree/master/1039-find-the-town-judge) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
