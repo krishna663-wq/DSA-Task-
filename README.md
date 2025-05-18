@@ -484,6 +484,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0110-balanced-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/krishna663-wq/DSA-Task-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0543-diameter-of-binary-tree) |
@@ -499,6 +500,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/krishna663-wq/DSA-Task-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/krishna663-wq/DSA-Task-/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
@@ -538,6 +540,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna663-wq/DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/krishna663-wq/DSA-Task-/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/krishna663-wq/DSA-Task-/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/krishna663-wq/DSA-Task-/tree/master/0322-coin-change) |
@@ -744,6 +747,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/krishna663-wq/DSA-Task-/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/krishna663-wq/DSA-Task-/tree/master/0898-transpose-matrix) |
 | [1094-matrix-cells-in-distance-order](https://github.com/krishna663-wq/DSA-Task-/tree/master/1094-matrix-cells-in-distance-order) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishna663-wq/DSA-Task-/tree/master/3227-find-missing-and-repeated-values) |
@@ -793,4 +797,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [1039-find-the-town-judge](https://github.com/krishna663-wq/DSA-Task-/tree/master/1039-find-the-town-judge) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/2564-most-profitable-path-in-a-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/krishna663-wq/DSA-Task-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
