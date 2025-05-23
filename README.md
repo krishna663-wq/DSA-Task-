@@ -491,6 +491,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/krishna663-wq/DSA-Task-/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/krishna663-wq/DSA-Task-/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/krishna663-wq/DSA-Task-/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -506,6 +507,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0322-coin-change](https://github.com/krishna663-wq/DSA-Task-/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/krishna663-wq/DSA-Task-/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/krishna663-wq/DSA-Task-/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/krishna663-wq/DSA-Task-/tree/master/0820-find-eventual-safe-states) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -799,10 +801,15 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/krishna663-wq/DSA-Task-/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/krishna663-wq/DSA-Task-/tree/master/1039-find-the-town-judge) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/krishna663-wq/DSA-Task-/tree/master/0200-number-of-islands) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/krishna663-wq/DSA-Task-/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
