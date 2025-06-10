@@ -549,6 +549,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0200-number-of-islands](https://github.com/krishna663-wq/DSA-Task-/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/krishna663-wq/DSA-Task-/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/krishna663-wq/DSA-Task-/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/krishna663-wq/DSA-Task-/tree/master/0485-max-consecutive-ones) |
@@ -707,6 +708,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0005-longest-palindromic-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/krishna663-wq/DSA-Task-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna663-wq/DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/krishna663-wq/DSA-Task-/tree/master/0322-coin-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/1013-fibonacci-number) |
@@ -781,6 +783,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/0300-longest-increasing-subsequence) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/krishna663-wq/DSA-Task-/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
