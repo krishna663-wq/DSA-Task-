@@ -549,6 +549,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna663-wq/DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/krishna663-wq/DSA-Task-/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/krishna663-wq/DSA-Task-/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
@@ -791,6 +792,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/krishna663-wq/DSA-Task-/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/0300-longest-increasing-subsequence) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/krishna663-wq/DSA-Task-/tree/master/0975-range-sum-of-bst) |
