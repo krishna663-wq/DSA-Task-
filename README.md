@@ -383,6 +383,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1364-tuple-with-same-product](https://github.com/krishna663-wq/DSA-Task-/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/krishna663-wq/DSA-Task-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2107-find-unique-binary-string](https://github.com/krishna663-wq/DSA-Task-/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/krishna663-wq/DSA-Task-/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/krishna663-wq/DSA-Task-/tree/master/2448-count-number-of-bad-pairs) |
@@ -417,6 +418,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/krishna663-wq/DSA-Task-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/krishna663-wq/DSA-Task-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1873-longest-nice-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/1873-longest-nice-substring) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/krishna663-wq/DSA-Task-/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/krishna663-wq/DSA-Task-/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/krishna663-wq/DSA-Task-/tree/master/2456-construct-smallest-number-from-di-string) |
