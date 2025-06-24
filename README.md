@@ -546,6 +546,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0027-remove-element](https://github.com/krishna663-wq/DSA-Task-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/krishna663-wq/DSA-Task-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishna663-wq/DSA-Task-/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -632,6 +633,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0015-3sum](https://github.com/krishna663-wq/DSA-Task-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krishna663-wq/DSA-Task-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/krishna663-wq/DSA-Task-/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/krishna663-wq/DSA-Task-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0202-happy-number) |
@@ -715,6 +717,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/krishna663-wq/DSA-Task-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishna663-wq/DSA-Task-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna663-wq/DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/0300-longest-increasing-subsequence) |
@@ -780,6 +783,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krishna663-wq/DSA-Task-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -816,6 +820,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krishna663-wq/DSA-Task-/tree/master/0042-trapping-rain-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Ordered Set
 |  |
