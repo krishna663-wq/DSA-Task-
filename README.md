@@ -409,6 +409,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0680-valid-palindrome-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/krishna663-wq/DSA-Task-/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/krishna663-wq/DSA-Task-/tree/master/0812-rotate-string) |
+| [0961-long-pressed-name](https://github.com/krishna663-wq/DSA-Task-/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/krishna663-wq/DSA-Task-/tree/master/0979-di-string-match) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/krishna663-wq/DSA-Task-/tree/master/1160-letter-tile-possibilities) |
@@ -645,6 +646,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0680-valid-palindrome-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/krishna663-wq/DSA-Task-/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-long-pressed-name](https://github.com/krishna663-wq/DSA-Task-/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/krishna663-wq/DSA-Task-/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/krishna663-wq/DSA-Task-/tree/master/2265-partition-array-according-to-given-pivot) |
