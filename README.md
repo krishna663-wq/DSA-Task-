@@ -572,6 +572,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0605-can-place-flowers](https://github.com/krishna663-wq/DSA-Task-/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/krishna663-wq/DSA-Task-/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/krishna663-wq/DSA-Task-/tree/master/0780-max-chunks-to-make-sorted) |
+| [0792-binary-search](https://github.com/krishna663-wq/DSA-Task-/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/krishna663-wq/DSA-Task-/tree/master/0816-design-hashset) |
 | [0898-transpose-matrix](https://github.com/krishna663-wq/DSA-Task-/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -820,6 +821,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0162-find-peak-element](https://github.com/krishna663-wq/DSA-Task-/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/0300-longest-increasing-subsequence) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/krishna663-wq/DSA-Task-/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/krishna663-wq/DSA-Task-/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/krishna663-wq/DSA-Task-/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/krishna663-wq/DSA-Task-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
