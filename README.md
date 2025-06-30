@@ -374,6 +374,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0202-happy-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/krishna663-wq/DSA-Task-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/krishna663-wq/DSA-Task-/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/krishna663-wq/DSA-Task-/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/krishna663-wq/DSA-Task-/tree/master/0782-jewels-and-stones) |
@@ -445,6 +446,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0190-reverse-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/krishna663-wq/DSA-Task-/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/krishna663-wq/DSA-Task-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/krishna663-wq/DSA-Task-/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/krishna663-wq/DSA-Task-/tree/master/0389-find-the-difference) |
@@ -562,6 +564,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0189-rotate-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/krishna663-wq/DSA-Task-/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krishna663-wq/DSA-Task-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/krishna663-wq/DSA-Task-/tree/master/0322-coin-change) |
@@ -616,6 +619,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0202-happy-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/krishna663-wq/DSA-Task-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/krishna663-wq/DSA-Task-/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/krishna663-wq/DSA-Task-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krishna663-wq/DSA-Task-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/krishna663-wq/DSA-Task-/tree/master/0371-sum-of-two-integers) |
@@ -679,6 +683,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0015-3sum](https://github.com/krishna663-wq/DSA-Task-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/krishna663-wq/DSA-Task-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/krishna663-wq/DSA-Task-/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/krishna663-wq/DSA-Task-/tree/master/0506-relative-ranks) |
@@ -822,6 +827,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/krishna663-wq/DSA-Task-/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/0300-longest-increasing-subsequence) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/krishna663-wq/DSA-Task-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/krishna663-wq/DSA-Task-/tree/master/0792-binary-search) |
