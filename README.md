@@ -712,6 +712,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0141-linked-list-cycle](https://github.com/krishna663-wq/DSA-Task-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/krishna663-wq/DSA-Task-/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/krishna663-wq/DSA-Task-/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/krishna663-wq/DSA-Task-/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/krishna663-wq/DSA-Task-/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/krishna663-wq/DSA-Task-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -721,6 +722,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0024-swap-nodes-in-pairs](https://github.com/krishna663-wq/DSA-Task-/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/krishna663-wq/DSA-Task-/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/krishna663-wq/DSA-Task-/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/krishna663-wq/DSA-Task-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/krishna663-wq/DSA-Task-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/krishna663-wq/DSA-Task-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/krishna663-wq/DSA-Task-/tree/master/0342-power-of-four) |
