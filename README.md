@@ -369,6 +369,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0001-two-sum](https://github.com/krishna663-wq/DSA-Task-/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/krishna663-wq/DSA-Task-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/krishna663-wq/DSA-Task-/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/krishna663-wq/DSA-Task-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishna663-wq/DSA-Task-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -556,6 +557,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0042-trapping-rain-water](https://github.com/krishna663-wq/DSA-Task-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishna663-wq/DSA-Task-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/krishna663-wq/DSA-Task-/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/krishna663-wq/DSA-Task-/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0088-merge-sorted-array) |
@@ -805,6 +807,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/krishna663-wq/DSA-Task-/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/krishna663-wq/DSA-Task-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/krishna663-wq/DSA-Task-/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/krishna663-wq/DSA-Task-/tree/master/0898-transpose-matrix) |
