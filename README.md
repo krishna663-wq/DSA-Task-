@@ -555,6 +555,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/krishna663-wq/DSA-Task-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishna663-wq/DSA-Task-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/krishna663-wq/DSA-Task-/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krishna663-wq/DSA-Task-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/krishna663-wq/DSA-Task-/tree/master/0088-merge-sorted-array) |
@@ -671,6 +672,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/krishna663-wq/DSA-Task-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/krishna663-wq/DSA-Task-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/krishna663-wq/DSA-Task-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/krishna663-wq/DSA-Task-/tree/master/0605-can-place-flowers) |
@@ -749,6 +751,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0005-longest-palindromic-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/krishna663-wq/DSA-Task-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishna663-wq/DSA-Task-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/krishna663-wq/DSA-Task-/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/krishna663-wq/DSA-Task-/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishna663-wq/DSA-Task-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/krishna663-wq/DSA-Task-/tree/master/0300-longest-increasing-subsequence) |
