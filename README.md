@@ -403,6 +403,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0008-string-to-integer-atoi](https://github.com/krishna663-wq/DSA-Task-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/krishna663-wq/DSA-Task-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/krishna663-wq/DSA-Task-/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/krishna663-wq/DSA-Task-/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/krishna663-wq/DSA-Task-/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0171-excel-sheet-column-number) |
@@ -751,6 +752,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krishna663-wq/DSA-Task-/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/krishna663-wq/DSA-Task-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krishna663-wq/DSA-Task-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishna663-wq/DSA-Task-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/krishna663-wq/DSA-Task-/tree/master/0055-jump-game) |
@@ -767,6 +769,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishna663-wq/DSA-Task-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/krishna663-wq/DSA-Task-/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/krishna663-wq/DSA-Task-/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/krishna663-wq/DSA-Task-/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/krishna663-wq/DSA-Task-/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
